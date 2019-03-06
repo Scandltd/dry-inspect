@@ -1,2 +1,2 @@
 # dry-inspect
-A JavaScript library helps keep your code DRY
+A JavaScript library helps keeping your code DRY
